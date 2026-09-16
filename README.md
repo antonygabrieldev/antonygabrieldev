@@ -51,3 +51,20 @@ Análise e Desenvolvimento de Sistemas
 ├── Banco de Dados
 ├── Git & GitHub
 └── Desenvolvimento de Sistemas
+```
+
+---
+
+## 🤝 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antony-gabriel-dos-santos-silva-7b829342a">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+  <a href="https://antony-digital-studio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/antonygabrieldev">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
