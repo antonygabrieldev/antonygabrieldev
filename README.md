@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Transformando aprendizado, código e criatividade em soluções digitais.
+  Desenvolvendo projetos reais enquanto evoluo em tecnologia.
 </p>
 
 ---
